@@ -49,3 +49,6 @@ Sookmyung Women's University | 2020.03 ~
 ![git](https://img.shields.io/badge/git-F05032?style=flat&logo=plastic&logoColor=white)
 
 
+### :envelope: Contact
+1007shc@naver.com
+
