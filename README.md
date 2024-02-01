@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jiyoon Heo</h1>
-<h3 align="center">A passionate student studying to become a data scientist</h3>
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
