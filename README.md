@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jiji-heo/jiji-heo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Jiyoon Heo</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&height=80&color=6994CDEE&text=Jiyoon%20Heo&reversal=false&fontColor=6994CDEE&fontSize=45&fontAlign=50&fontAlignY=79&animation=fadeIn)
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+### :mortar_board: Education
+Sookmyung Women's University | 2020.03 ~
+- Bachelor of Business Administration - BBA (4.28 / 4.5)
+- Bachelor of Business Analytics (4.43 / 4.5)
+- Bachelor of Child Welfare (4.31 / 4.5)
 
-- 📫 How to reach me **1007shc@naver.com**
+### :file_folder: Projects
+- 제 1회 신.빅.해 장려상 수상
+- WE-Meet project
+- 제 1회 지역 치안 안전 데이터 분석 경진대회
+- <a href="https://github.com/jiji-heo/DataCo_SCM"> 공급 사슬 최적화 </a>
+- Top Seller로 성장하기
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+  
+### :speech_balloon: Language
+- TEPS 495
+- TOEIC 965 (RC 470, LC 495)
+- OPIC IH
+
+
+### :bookmark_tabs: Skills
+- 컴퓨터 활용 능력 2급
+- ADSP, SQLD (취득 예정)
+
+
+### :computer: Programming Language and Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
+![tableau](https://img.shields.io/badge/tableau-E97627?style=plastic&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white)
+![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=plastic&logo=scikitlearn&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032?style=flat&logo=plastic&logoColor=white)
+
+
