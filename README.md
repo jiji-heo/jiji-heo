@@ -46,7 +46,7 @@ Sookmyung Women's University | 2020.03 ~
 ![pandas](https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243?style=plastic&logo=numpy&logoColor=white)
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=plastic&logo=scikitlearn&logoColor=white)
-![git](https://img.shields.io/badge/git-F05032?style=flat&logo=plastic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white)
 
 
 ### :envelope: Contact
