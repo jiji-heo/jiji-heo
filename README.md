@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=80&color=6994CDEE&text=Jiyoon%20Heo&reversal=false&fontColor=6994CDEE&fontSize=45&fontAlign=50&fontAlignY=79&animation=fadeIn)
 
-### :mortar_board: Education
+### :mortar_board: Degree
 Sookmyung Women's University | 2020.03 ~
 - Bachelor of Business Administration - BBA (4.28 / 4.5)
 - Bachelor of Business Analytics (4.43 / 4.5)
@@ -22,15 +22,42 @@ Sookmyung Women's University | 2020.03 ~
 
 ### :file_folder: Projects
 - 제 1회 신.빅.해 장려상 수상
+  
+  - 신한 금융 그룹의 데이터를 활용한 증권 성향 고객 예측 모형 개발
 - WE-Meet project
+  - 서울대학교 학점 교류 '(고급) 빅데이터 특수연구' PBL 프로젝트
+ 
+  - AWS 서비스를 활용한 한파 예측 및 시각화
 - 제 1회 지역 치안 안전 데이터 분석 경진대회
-- <a href="https://github.com/jiji-heo/DataCo_SCM"> 공급 사슬 최적화 </a>
-- Top Seller로 성장하기
+  - 경찰대학교 치안 정책 연구소 제공 데이터 활용한 데이터 분석, 시각화 및 서비스 기획
+- '제조업 불량 예측' PBL 프로젝트
+
+  - 제조업 산업데이터를 활용한 불량률 예측 머신러닝 모델 개발
+- <a href="https://github.com/jiji-heo/DataCo_SCM"> '공급 사슬 최적화' 프로젝트 </a>
+
+  - Kaggle의 DataCoSupplyChainDataset 활용한 데이터 분석으로 공급 사슬 최적화 방안 제시
+- 'Top Seller로 성장하기' 프로젝트
+
+  - Kaggle의 ‘Brazilian E-Commerce Public Dataset by Olist’를 활용한 데이터 분석으로 중하위 셀러가 탑셀러로 성장하기 위한 방향 제시
+
+
+### :school_satchel: Education
+- 패스트캠퍼스 '데이터 분석 부트캠프 11기' | 2023.10 ~ 2024.03 (예정)
+- AWS and YGL 'We-Meet Program' | 2022.09 ~ 2023.02
+- 데이터 분석 학회 (BDAA) | 2022.08 ~ 2023. 02
+- Brute Force | 2021.07 ~ 2021.09
+
+### :star2: Extra Activities
+- 국내 최초 빅데이터 연합 동아리 BOAZ 22기 | 2024.01 ~
+- 숙명여자대학교 아동복지학부 아동문학학회 숙나래 | 2021.05 ~ 2022.06
+- 굿네이버스 NGO Traveler | 2021.10 ~ 2021.11
+- 경기도 청년 봉사단 | 2021.03 ~ 2021.12
+- 숙명여자대학교 리더십그룹 숙명지식봉사단 (SMKV) | 2020.04 ~ 2022.02
 
   
 ### :speech_balloon: Language
-- TEPS 495
 - TOEIC 965 (RC 470, LC 495)
+- TEPS 495
 - OPIC IH
 
 
