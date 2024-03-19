@@ -39,7 +39,8 @@ Sookmyung Women's University | 2020.03 ~
 - 'Top Seller로 성장하기' 프로젝트
 
   - Kaggle의 ‘Brazilian E-Commerce Public Dataset by Olist’를 활용한 데이터 분석으로 중하위 셀러가 탑셀러로 성장하기 위한 방향 제시
-
+- Spotify Playlist Recommendation AI
+  - <a href="https://github.com/hyeseunng/22_MiniProject_Spotify-Playlist-Recommendation-AI"> BOAZ 22기 분석 BASE 1차 미니 프로젝트 </a>
 
 ### :school_satchel: Education
 - 패스트캠퍼스 '데이터 분석 부트캠프 11기' | 2023.10 ~ 2024.03 (예정)
