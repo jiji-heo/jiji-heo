@@ -43,7 +43,7 @@ Sookmyung Women's University | 2020.03 ~
   - <a href="https://github.com/hyeseunng/22_MiniProject_Spotify-Playlist-Recommendation-AI"> BOAZ 22기 분석 BASE 1차 미니 프로젝트 </a>
 
 ### :school_satchel: Education
-- 패스트캠퍼스 '데이터 분석 부트캠프 11기' | 2023.10 ~ 2024.03 (예정)
+- 패스트캠퍼스 '데이터 분석 부트캠프 11기' | 2023.10 ~ 2024.03
 - AWS and YGL 'We-Meet Program' | 2022.09 ~ 2023.02
 - 데이터 분석 학회 (BDAA) | 2022.08 ~ 2023. 02
 - Brute Force | 2021.07 ~ 2021.09
@@ -64,7 +64,8 @@ Sookmyung Women's University | 2020.03 ~
 
 ### :bookmark_tabs: Skills
 - 컴퓨터 활용 능력 2급
-- ADSP, SQLD (취득 예정)
+- ADSP
+- SQLD (취득 예정)
 
 
 ### :computer: Programming Language and Tools
