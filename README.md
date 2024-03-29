@@ -65,7 +65,7 @@ Sookmyung Women's University | 2020.03 ~
 ### :bookmark_tabs: Skills
 - 컴퓨터 활용 능력 2급
 - ADSP
-- SQLD (취득 예정)
+- SQLD 
 
 
 ### :computer: Programming Language and Tools
