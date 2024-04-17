@@ -58,7 +58,7 @@ Sookmyung Women's University | 2020.03 ~
   
 ### :speech_balloon: Language
 - TOEIC 965 (RC 470, LC 495)
-- TEPS 495
+- TEPS 496
 - OPIC IH
 
 
